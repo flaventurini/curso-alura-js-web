@@ -1,1 +1,1 @@
-document.querySelector('input')
+document.querySelector('input[type=tel]')
